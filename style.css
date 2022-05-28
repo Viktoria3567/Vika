@@ -1,0 +1,84 @@
+# header {
+    background-color: #7c00a8;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    font-family: Arial;
+    text-align: center;
+    background-color: #7c00a8;
+    margin-top: 0px;
+    border: 10px solid #7c00a8;
+}
+
+h2 {
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    background-color: #7c00a8;
+}
+
+main {
+    background-color:#ffe600;
+    border: 5px solid #ffe600;
+    margin-top: 0px;
+}
+
+p {
+    color: #b98800;
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.musical {
+    margin-top: 40px;
+}
+
+.video {
+    margin-left: 200px;
+}
+
+.mus {
+    margin-left: 470px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+footer {
+    background-color: #7c00a8;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+    
+}
+
+.he {
+    width: 100px;
+    height: 60px;
+}
+
+.slogan {
+    display: flex;
+    padding: 30px;
+    color: mediumblue;
+    margin-left: 150px;
+}
+
+.slogan_img {
+    padding: 30px;
+}
+
+.slogan_text {
+    float:left;
+    margin: 20px;
+}
